@@ -10,6 +10,10 @@ This system is designed in such a way that it can be used by any company special
 </ul>
 <h2 align=center>🔔 How it works</h2>
 Keeping up with the changing times, where social distancing is the new normal, personal mobility is the safest bet to travel anywhere. This is because it allows you to commute away from the crowds and eliminates the risk of transmission. However, if you do not have a personal vehicle, then taking a self-drive car rental service is the best solution to have access to a private means of commuting. The system works for two distinct end users- The end customers who rent the cars and the car owners who sell their cars through our platform.
+The end customers who rent the cars and the car owners who sell their cars through our platform.
+The end customers who rent the cars and the car owners who sell their cars through our platform.
+The end customers who rent the cars and the car owners who sell their cars through our platform.
+The end customers who rent the cars and the car owners who sell their cars through our platform.
 <h2 align=center>🎨 Opportunities we provide</h2>
 <ul style="list-style-type:none;">
 <li> No hassles of using public transport, you can commute independently and freely
